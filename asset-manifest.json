@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/randompasswordgenerator/static/css/main.3c347372.css",
+    "main.js": "/randompasswordgenerator/static/js/main.d0b55645.js",
+    "static/js/592.e4b81645.chunk.js": "/randompasswordgenerator/static/js/592.e4b81645.chunk.js",
+    "index.html": "/randompasswordgenerator/index.html",
+    "main.3c347372.css.map": "/randompasswordgenerator/static/css/main.3c347372.css.map",
+    "main.d0b55645.js.map": "/randompasswordgenerator/static/js/main.d0b55645.js.map",
+    "592.e4b81645.chunk.js.map": "/randompasswordgenerator/static/js/592.e4b81645.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c347372.css",
+    "static/js/main.d0b55645.js"
+  ]
+}
